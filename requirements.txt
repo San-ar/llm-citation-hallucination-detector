@@ -1,0 +1,9 @@
+pandas
+sentence-transformers
+scikit-learn
+requests
+ftfy
+transformers
+rapidfuzz
+seaborn
+matplotlib
