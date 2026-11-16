@@ -28,7 +28,7 @@ $$Hybrid\_Score = (0.7 \times Signal_{OpenAlex}) + (0.3 \times Signal_{Title})$$
 
 1.  **Clone the repository:** 
 ```Bash
-git clone https://github.com/your-username/llm-citation-hallucination-detector.git
+git clone https://github.com/San-ar/llm-citation-hallucination-detector.git
 cd llm-citation-hallucination-detector
 ```
 2.  **Install dependencies:** 
